@@ -33,4 +33,8 @@ requires:
   Time::Local: '0'
   feature: '0'
   perl: 5.008_005
-version: '0.04'
+resources:
+  bugtracker: https://github.com/mudler/GitInsight/issues
+  homepage: https://github.com/mudler/GitInsight
+  repository: https://github.com/mudler/GitInsight.git
+version: '0.05'
