@@ -37,4 +37,4 @@ resources:
   bugtracker: https://github.com/mudler/GitInsight/issues
   homepage: https://github.com/mudler/GitInsight
   repository: https://github.com/mudler/GitInsight.git
-version: '0.05'
+version: '0.06'
